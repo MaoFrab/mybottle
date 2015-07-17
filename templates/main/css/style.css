@@ -1,0 +1,9 @@
+#middle1 {
+    background: url(mybottle2.jpg) no-repeat center 0 fixed;
+    min-height: 250px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
